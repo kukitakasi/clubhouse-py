@@ -9,8 +9,8 @@
 
 ## Pull Requests / Issues
 
-1. Please DO NOT request PR for minor (documentation|typo|paragraph) changes. All of them will be rejected.
-2. Check closed [issues](https://github.com/stypr/clubhouse-py/issues?q=is%3Aissue+is%3Aclosed) before asking
+1. Please DO NOT request PR for minor (documentation|typo|paragraph) changes. All of them will be rejected and closed.
+2. Check closed [issues](https://github.com/stypr/clubhouse-py/issues?q=is%3Aissue+is%3Aclosed) before asking a question / feature request.
 
 ## Clubhouse API written in Python
 

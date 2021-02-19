@@ -4,7 +4,13 @@
 
 * ___PLEASE DO NOT CREATE BOTS OR DO ANY HARMFUL THINGS TO THE SERVICE. DON'T BREAK THINGS. DON'T BE EVIL.___
 
-* ___THIS PROJECT WILL DISCONITNUE DEVELOPMENT ONCE DEVELOPERS RELEASE AN ANDROID BUILD___
+* ___THIS PROJECT WILL DISCONITNUE DEVELOPMENT ONCE DEVELOPERS RELEASE AN ANDROID BUILD.___
+
+
+## Pull Requests / Issues
+
+1. Please DO NOT request PR for minor (documentation|typo|paragraph) changes. All of them will be rejected.
+2. Check closed [issues](https://github.com/stypr/clubhouse-py/issues?q=is%3Aissue+is%3Aclosed) before asking
 
 ## Clubhouse API written in Python
 
